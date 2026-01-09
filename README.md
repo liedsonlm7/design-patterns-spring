@@ -42,7 +42,7 @@ src
 │       │   |     └── EnderecoRepository
 │       │   ├── service
 │       │          ├── impl
-│       │          |   └──  Cliente
+│       │          |    └──  ClienteServiceImpl
 │       │          ├── ClienteService
 │       │          └── ViaCepService
 └── test
